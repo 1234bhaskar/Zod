@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3",
+    "zod": "^3.22.4"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "type": "module",
+  "name": "basic-zod",
+  "version": "1.0.0",
+  "description": "zod",
+  "main": "server.js",
+  "author": "bhaskar",
+  "license": "ISC"
+}
